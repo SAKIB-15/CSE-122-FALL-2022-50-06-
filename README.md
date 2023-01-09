@@ -1,4 +1,4 @@
-# CSE-122-SPRING-2023-50-06-
+# CSE-122-SPRING-2023-50-06
 This is an OOP Lab Repository
 
 
