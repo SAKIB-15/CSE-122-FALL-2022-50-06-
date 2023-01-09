@@ -3,12 +3,12 @@ This is an OOP Lab Repository
 
 
 
-NAME:
+NAME: MD.SAKIB ABDULLAH
 
-STUDENT ID:
+STUDENT ID:22234103230
 
-EMAIL:
+EMAIL:sakibabdullah6@gmail.com
 
-INTAKE:
+INTAKE:50
 
-SECTION:
+SECTION:06
