@@ -1,2 +1,14 @@
-# CSE-122-FALL-2022-50-06-
+# CSE-122-SPRING-2023-50-06-
 This is an OOP Lab Repository
+
+
+
+NAME:
+
+STUDENT ID:
+
+EMAIL:
+
+INTAKE:
+
+SECTION:
