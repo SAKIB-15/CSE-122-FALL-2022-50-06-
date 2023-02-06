@@ -1,20 +1,18 @@
-#include<iostream>
-#include<string>
+#include <iostream>
 using namespace std;
-int main()
-{
-    string s;
-    cin>>s;
-    int i,j;
-    for(i=0; i<s.size(); i+=2)
+
+int main(){
+
+    string c;
+    cin>>c;
+
+    if(int(c[0])>=65 && int(c[0])<=90)
     {
-        for(j=0; j<s.size()-1; j+=2)
-        {
-            if(s[j]>s[j+2])
-            {
-                swap(s[j],s[j+2]);
-            }
-        }
+        cout<<c;
     }
-    cout<<s<<endl;
+    else{
+        c[0] = int(c[0])-32;
+        cout<<c;
+    }
+    return 0;
 }
